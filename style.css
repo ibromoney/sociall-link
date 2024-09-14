@@ -12,6 +12,7 @@
     justify-content: center;
     gap: 30px;
     padding: 3%;
+     height: 100vh;
     background-color: hsl(0, 0%, 8%);
 }
 
